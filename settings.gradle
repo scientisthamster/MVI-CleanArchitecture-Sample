@@ -14,3 +14,10 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MVI-CleanArchitecture-Sample"
 include ':app'
+include ':common'
+include ':base'
+include ':domain'
+include ':data'
+include ':local'
+include ':remote'
+include ':presentation'
